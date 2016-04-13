@@ -1,0 +1,2 @@
+# djangoPost
+inicio en django
